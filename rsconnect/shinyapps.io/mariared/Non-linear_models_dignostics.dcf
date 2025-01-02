@@ -1,0 +1,12 @@
+name: Non-linear_models_dignostics
+title: Non-linear_models_dignostics
+username: mariared
+account: mariared
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13656156
+bundleId: 9596819
+url: https://mariared.shinyapps.io/Non-linear_models_dignostics/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
