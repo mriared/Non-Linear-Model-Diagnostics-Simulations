@@ -1,5 +1,5 @@
 # Non-Linear Model Diagnostics Simulations
-Learning Online Application
+Online Learning Application
 ---
 
 ## **Instructions**
