@@ -2,6 +2,8 @@
 Online Learning Application
 ---
 
+To see the application online go to the link: https://mariared.shinyapps.io/Non-linear_models_dignostics/
+
 ## **Instructions**
 
 ### **Tabs Overview**
