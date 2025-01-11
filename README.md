@@ -180,9 +180,6 @@ Experiment with how the spread of your independent variable affects the detectab
 - Adjust the range and distribution of the independent variable in the **Model Parameters** panel to observe its impact on model diagnostics and residual plots.
 
 ---
-
-This interactive tool is designed to help you build intuition about linear models, diagnostics, and the effects of violating key assumptions. Dive in and explore how different settings influence the models and their performance!
-
 --- 
 
 
